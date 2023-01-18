@@ -70,7 +70,7 @@ console.log(data);
           {information && information.map((info, index) => {
             if (info.department === "Business") {
               return (
-                <Card key={index} degree={info.degree} colour="green" font="10px"/>
+                <Card key={index} degree={info.degree} colour="#000037" font="11px"/>
               )
             
           }
@@ -79,7 +79,7 @@ console.log(data);
                     {information && information.map((info, index) => {
             if (info.department === "Computing") {
               return (
-                <Card key={index} degree={info.degree} colour="blue" font="75px"/>
+                <Card key={index} degree={info.degree} colour="purple" font="11px"/>
               )
             
           }
