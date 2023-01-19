@@ -2,7 +2,7 @@ export default function Card( {
     degree = "none",
         colour = "purple",
         font = "0",
-        image = "/icon/face.png"
+        image = "/icon/person.png"
 }) {
     return (
         <div style={{ backgroundColor: colour, fontSize: font }}>

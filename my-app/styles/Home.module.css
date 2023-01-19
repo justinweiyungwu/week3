@@ -1,5 +1,5 @@
  .grid b{
-  font-size: 2em;
+  font-size: 1.2em;
 }
 
 .main {
@@ -35,7 +35,7 @@
   margin: 0;
   padding: 1rem;
   background-color: rgba(var(--callout-rgb), 0.5);
-  border: 1px solid rgba(var(--callout-border-rgb), 0.3);
+  border: 1px solid rgba(var(--callout-border-rgb), 0.7);
   border-radius: var(--border-radius);
 }
 
@@ -108,6 +108,9 @@
   position: absolute;
   filter: blur(45px);
   transform: translateZ(0);
+}
+.center h1 {
+  font-size: 64px;
 }
 
 .logo,
