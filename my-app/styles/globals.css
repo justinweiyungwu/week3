@@ -4,6 +4,8 @@
   --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
     'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
     'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+    
+    --green: 0, 255, 0;
 
   --foreground-rgb: 255, 255, 0;
   --background-start-rgb: 214, 219, 220;
@@ -18,8 +20,8 @@
     transparent 360deg
   );
   --secondary-glow: radial-gradient(
-    rgb(74, 196, 65),
-    rgba(29, 255, 4, 0)
+    rgb(84, 220, 74),
+    rgba(75, 251, 219, 0.456)
   );
 
   --tile-start-rgb: 239, 245, 249;

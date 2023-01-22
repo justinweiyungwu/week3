@@ -1,35 +1,35 @@
 [
     {
-        "employee": "A0001234",
-        "department": "Business",
+        "name": "Jeffery Williams",
+        "department": "Product Management",
         "hours": 40,
-        "started": 2010
+        "started": 2011
     },
     {
-        "employee": "A0001234",
-        "department": "Business",
-        "hours": 40,
-        "started": 2010
+        "name": "Cody McMaster",
+        "department": "Product Research",
+        "hours": 35,
+        "started": 2015
     },
     
         {
-            "employee": "A0001234",
-            "department": "Business",
+            "name": "George Miller",
+            "department": "UI Design",
             "hours": 40,
-            "started": 2010
+            "started": 2012
         },
     
         {
-            "employee": "A0001234",
-            "department": "Business",
-            "hours": 40,
-            "started": 2010
+            "name": "Andrew Lee",
+            "department": "UX Design",
+            "hours": 39,
+            "started": 2013
         },
     
         {
-            "employee": "A0001234",
-            "department": "Business",
-            "hours": 40,
-            "started": 2010
+            "name": "Sarah Peterson",
+            "department": "Product Management",
+            "hours": 36,
+            "started": 2020
         }
 ]
